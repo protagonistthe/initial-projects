@@ -1,3 +1,4 @@
 # initial-projects
-demo repository to learn GitHub
+demo repository to learn GitHub.
+<br>
 Author - Kanishka Gupta
